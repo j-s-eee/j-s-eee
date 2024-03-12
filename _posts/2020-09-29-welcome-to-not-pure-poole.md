@@ -2,7 +2,7 @@
 layout: post
 title: Github 한글 가독성 테스트
 date: 2023-03-12 23:18 +0800
-last_modified_at: 2020-10-01 01:08:25 +0800
+last_modified_at: 2023-03-12 01:08:25 +0800
 tags: [jekyll theme, jekyll, tutorial]
 toc:  true
 ---
