@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Github 한글 가독성 테스트
+title: 2주차 강의요약
 date: 2023-03-12 23:18 +0800
 last_modified_at: 2023-03-12 01:08:25 +0800
-tags: [jekyll theme, jekyll, tutorial]
+tags: [빅데이터융합기술]
 toc:  true
 ---
 안녕하세요  **Github 한글 가독성 테스트** 입니다! 아래를 보겠습니다.
