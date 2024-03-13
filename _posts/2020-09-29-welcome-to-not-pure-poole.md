@@ -20,8 +20,10 @@ toc:  true
  -파이썬 예약어(False, None,Ture, in, is, if 등)는 사용 불가능
 
 다음은 input() 함수입니다. input() 함수는 키보드로 입력받도록 도와주는 함수입니다.\
-아래는 input()함수를 사용한 실습예제입니다.
+아래는 input()함수를 사용한 실습예제입니다.\
 ![화면 캡처 2024-03-13 212439](https://github.com/j-s-eee/j-s-eee/assets/163078421/ecb15d8e-64d3-40c2-b5a4-f163fdb585f7)
+
+
 글자수를 세어주는 len 함수와 인덱싱을 활용한 예제입니다.\
 ![화면 캡처 2024-03-13 212826](https://github.com/j-s-eee/j-s-eee/assets/163078421/b6e82bdd-ec12-4dcb-a64d-64f486f31505)
 
@@ -48,6 +50,3 @@ toc:  true
 
 -----
 
-Want to see something else added? <a href="https://github.com/vszhub/not-pure-poole/issues/new">Open an issue.</a>
-
-[^fn-sample_footnote]: Handy! Now click the return link to go back.
