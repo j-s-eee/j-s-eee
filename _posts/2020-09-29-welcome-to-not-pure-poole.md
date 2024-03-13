@@ -17,13 +17,13 @@ toc:  true
  공백은 사용 불가능\
  숫자로 시작하는 이름은 사용 불가능\
  특수문자(+,-,*,/,$)는 사용 불가능\
- 파이썬 예약어(False, None,Ture, in, is, if 등)는 사용 불가능\
+ 파이썬 예약어(False, None,Ture, in, is, if 등)는 사용 불가능
 
-아래는 변수이름을 정하는 규칙에 대한 예시입니다.\
+아래는 변수이름을 정하는 규칙에 대한 예시입니다.
 
 
 
-다음은 input() 함수입니다. input() 함수는 키보드로 입력받도록 도와주는 함수입니다.\
+다음은 input() 함수입니다. input() 함수는 키보드로 입력받도록 도와주는 함수입니다.
 
 
 Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
