@@ -11,19 +11,19 @@ toc:  true
 
 이번 빅데이터 융합기술 수업시간에서는 파이썬 기초 사용법에 대해서 배웠습니다.\
 우선 변수명을 사용할 때에는 아래와 같은 규칙을 지켜주시면 됩니다.
-변수 이름을 정하는 규칙
- 숫자와 여운자 사용가능, 영문은 대소문자 구분
- 언더바(_) 사용 가능
- 공백은 사용 불가능
- 숫자로 시작하는 이름은 사용 불가능
- 특수문자(+,-,*,/,$)는 사용 불가능
- 파이썬 예약어(False, None,Ture, in, is, if 등)는 사용 불가능
+변수 이름을 정하는 규칙\
+ 숫자와 여운자 사용가능, 영문은 대소문자 구분\
+ 언더바(_) 사용 가능\
+ 공백은 사용 불가능\
+ 숫자로 시작하는 이름은 사용 불가능\
+ 특수문자(+,-,*,/,$)는 사용 불가능\
+ 파이썬 예약어(False, None,Ture, in, is, if 등)는 사용 불가능\
 
-아래는 변수이름을 정하는 규칙에 대한 예시입니다.
+아래는 변수이름을 정하는 규칙에 대한 예시입니다.\
 
 
 
-다음은 input() 함수입니다. input() 함수는 키보드로 입력받도록 도와주는 함숭입니다.
+다음은 input() 함수입니다. input() 함수는 키보드로 입력받도록 도와주는 함수입니다.\
 
 
 Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
