@@ -29,14 +29,12 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
-  card: summary
-logo: logo.png
-social:
-  name: Songzi Vong
+  username:Junseong Kim
+  
+
+  name: Junseong Kim
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+  
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +52,5 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Junseong Kim
+
