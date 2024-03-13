@@ -25,7 +25,7 @@ toc:  true
  
 
 **input() 함수는 키보드로 입력받도록 도와주는 함수입니다.**\
-아래는 input()함수를 사용한 실습예제입니다.\
+&nbsp;아래는 input()함수를 사용한 실습예제입니다.\
 &nbsp;![화면 캡처 2024-03-13 212439](https://github.com/j-s-eee/j-s-eee/assets/163078421/ecb15d8e-64d3-40c2-b5a4-f163fdb585f7)\
 <br/> 
 <br/> 
