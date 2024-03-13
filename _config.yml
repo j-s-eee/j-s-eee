@@ -30,11 +30,13 @@ exclude:
 # Optimize Jekyl SEO Tag
 twitter:
   username:Junseong Kim
-  
-
+  card: summery
+logo: logo.png
+social: 
   name: Junseong Kim
   links:
-  
+   - https://twitter.com
+   - https://j-s-eee.github.io/j-s-eee  
 google_site_verification: xxxxx
 lang: en
 
@@ -53,4 +55,7 @@ sass:
 # Specify the author for blog posts
 author:
   name: Junseong Kim
+  url: https://j-s-eee.github.io/j-s-eee
+  email: 99rlawnstjd@naver.com
+  
 
