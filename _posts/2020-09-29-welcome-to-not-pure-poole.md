@@ -9,7 +9,7 @@ toc:  true
 안녕하세요  **Github 한글 가독성 테스트** 입니다! 아래를 보겠습니다.
 {: .message }
 
-이번 빅데이터 융합기술 수업시간에서는 파이썬 기초 사용법에 대해서 배웠습니다.\
+이번 빅데이터 융합기술 수업시간에서는 파이썬이 인공지능이나 데이터 분야에서 다양하게 활용할 수 있다는 점과 더불어 파이썬 기초 사용법 (변수명 설정, input함수, 숫자형 연산, 문자열 인덱싱, 문자열 슬라이싱 등)에 대해서 배웠습니다.\
 우선 변수명을 사용할 때에는 아래와 같은 규칙을 지켜주시면 됩니다.\
 **변수 이름을 정하는 규칙**\
  -숫자와 여운자 사용가능, 영문은 대소문자 구분\
@@ -19,11 +19,26 @@ toc:  true
  -특수문자(+,-,*,/,$)는 사용 불가능\
  -파이썬 예약어(False, None,Ture, in, is, if 등)는 사용 불가능
 
-아래는 변수이름을 정하는 규칙에 대한 예시입니다.
+다음은 input() 함수입니다. input() 함수는 키보드로 입력받도록 도와주는 함수입니다.\
+아래는 input()함수를 사용한 실습예제입니다.
 
 
 
-다음은 input() 함수입니다. input() 함수는 키보드로 입력받도록 도와주는 함수입니다.
+숫자형 연산 부분에서는 우리가 알고있는 기본 사칙연산 표시를 사용하고\
+**는 제곱, **0.5는 제곱근, /는 나누기, //는 몫, %는 나머지를 구하는 기호입니다.
+
+문자열 내장 함수는 아래와 같습니다.\
+**문자열 내장 함수**\
+ -count : 문자 개수 세기
+ -find  : 문자 위치 찾기
+ -capitaalize : 첫 글자만 대문자로 바꾸기
+ -upper : 모든 문자를 대문자로 바꾸기
+ -lower : 모든 문자를 소문자로 바꾸기
+ -replace : 특정 문자 바꾸기
+ -split : 단어 단위로 쪼개기
+ -strip : 문자열의 시작과 끝에서 주어진 문자 삭제
+
+
 
 
 Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
